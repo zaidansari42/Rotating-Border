@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/zaidansari42/CSS-Loader-Animation/)
-- Live Site URL: [Live Website](https://zaidansari42.github.io/CSS-Loader-Animation/)
+- Solution URL: [Github](ttps://zaidansari42.github.io/Rotating-Border-Animation/)
+- Live Site URL: [Live Website](https://zaidansari42.github.io/Rotating-Border-Animation/)
 
 ## My process
 
